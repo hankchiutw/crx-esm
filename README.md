@@ -1,3 +1,8 @@
+#### *DEPRECATED*
+This project has been moved to https://github.com/kromejs/krome
+
+---
+
 # krome
 ![Version](https://img.shields.io/github/package-json/v/kromejs/krome?label=package.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kromejs/krome/blob/main/LICENSE)
